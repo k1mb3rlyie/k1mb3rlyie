@@ -3,7 +3,9 @@
 
 - 📝 I studied Computer Science at the Air Force Institute of Technology Kaduna, Nigeria
 
-- 🌱 I’m currently learning **JavaScript, Roblox, Data Viz, and Power BI**, I am very passionate about learning new things and new languages
+- 🌱 I’m currently learning **JavaScript, Roblox Studio, Data Viz, and Power BI**, I am very passionate about learning new things and new languages
+
+- ✅ I'm interested in ***data structures and algorithm development, data management, and web development***
 
 - 💖 My hobbies include **Reading, listening to music, writing, singing, eating, sleeping, exploring, yapping, and learning new things**
   
