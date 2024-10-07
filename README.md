@@ -5,7 +5,11 @@
 
 <img align="left" height="150" src="https://i.pinimg.com/564x/07/b2/c0/07b2c0385936174d0961e1e2f71f66b1.jpg"  />
 
-###
+![k1mb3rlyie's Stats](https://github-readme-stats.vercel.app/api?username=k1mb3rlyie&theme=dracula&show_icons=true&hide_border=false&count_private=false)
+
+<br/>
+
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
