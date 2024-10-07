@@ -1,7 +1,7 @@
 <h2 align="center">I'm Kimberly</h2>
 <h5 align="center">an ✨aspiring✨ computer programmer</h5>
 <p align="left">I have a passion for game development, algorithm development and software design</p>
-###
+
 
 <img align="left" height="150" src="https://i.pinimg.com/564x/07/b2/c0/07b2c0385936174d0961e1e2f71f66b1.jpg"  />
 
@@ -11,7 +11,7 @@
 
 
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
