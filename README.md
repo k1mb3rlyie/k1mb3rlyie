@@ -4,8 +4,7 @@
 
 <img align="left" height="150" src="https://i.pinimg.com/564x/07/b2/c0/07b2c0385936174d0961e1e2f71f66b1.jpg"  />
 
-I specialize in game development, algorithm design, and software architecture. I'm developing a 2D game currently, using Unity, and diving into WebGL and web hosting for game deployment. My interests extend into machine learning, and I'm eager to collaborate with others who share an interest in training NLPs and have a strong background in machine learning.<br><br>Feel free to connect with me if you're into game development, machine learning, or looking to collaborate on innovative ✨projects!!!✨
-
+I specialize in game development, algorithm design, and software architecture, with a strong passion for leveraging technology to enhance educational accessibility. Currently, I'm developing a 2D game using Unity and exploring WebGL and web hosting for seamless game deployment. My interests also extend to machine learning, and I'm eager to collaborate with like-minded individuals interested in training NLPs and have a solid foundation in machine learning.<br><br>Feel free to connect with me if you’re passionate about game development, machine learning, or looking to collaborate on innovative ✨ projects! ✨
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kmbrly.wav) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kimberlydawap) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@kmbrly.wav) 
