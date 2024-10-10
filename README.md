@@ -1,6 +1,6 @@
 <h2 align="center">I'm Kimberly</h2>
-<h5 align="center">an ✨aspiring✨ programmer</h5>
-About Me:
+<h4 align="center">an ✨aspiring✨ programmer</h4>
+<h3>About Me:</h3>
 
 <img align="left" height="150" src="https://i.pinimg.com/564x/07/b2/c0/07b2c0385936174d0961e1e2f71f66b1.jpg"  />
 
@@ -14,7 +14,6 @@ I specialize in game development, algorithm design, and software architecture. I
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=k1mb3rlyie&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=k1mb3rlyie&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=k1mb3rlyie&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
@@ -32,6 +31,7 @@ I specialize in game development, algorithm design, and software architecture. I
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=316w26pkt5oxqkdv3infgimtqofe&count=5&unique=true" alt="Spotify recently played"  />
   </a>
 ---
+
 [![](https://visitcount.itsvg.in/api?id=k1mb3rlyie&icon=0&color=5)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
