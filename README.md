@@ -1,47 +1,37 @@
 <h2 align="center">I'm Kimberly</h2>
-<h5 align="center">an ✨aspiring✨ computer programmer</h5>
-<p align="left">I have a passion for game development, algorithm development and software design</p>
-
+<h5 align="center">an ✨aspiring✨ programmer</h5>
+About Me:
 
 <img align="left" height="150" src="https://i.pinimg.com/564x/07/b2/c0/07b2c0385936174d0961e1e2f71f66b1.jpg"  />
 
-![k1mb3rlyie's Stats](https://github-readme-stats.vercel.app/api?username=k1mb3rlyie&theme=dracula&show_icons=true&hide_border=false&count_private=false)
-
-<br/>
+I specialize in game development, algorithm design, and software architecture. I'm developing a 2D game currently, using Unity, and diving into WebGL and web hosting for game deployment. My interests extend into machine learning, and I'm eager to collaborate with others who share an interest in training NLPs and have a strong background in machine learning.<br><br>Feel free to connect with me if you're into game development, machine learning, or looking to collaborate on innovative ✨projects!!!✨
 
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kmbrly.wav) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kimberlydawap) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@kmbrly.wav) 
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
-</div>
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-###
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=k1mb3rlyie&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=k1mb3rlyie&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=k1mb3rlyie&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<div align="center">
-  <a href ="https://www.instagram.com/kmbrly.wav/#"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" /> </a>
-  <a href = "kimberlytipand@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /> </a>
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=k1mb3rlyie&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-###
+### ✍️ Random Dev Quote I didn't read, I hope it's ✨inspirational✨
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<div align="center">
-  <a href="https://open.spotify.com/user/316w26pkt5oxqkdv3infgimtqofe">
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=k1mb3rlyie&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
+ <a href="https://open.spotify.com/user/316w26pkt5oxqkdv3infgimtqofe">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=316w26pkt5oxqkdv3infgimtqofe&count=5&unique=true" alt="Spotify recently played"  />
   </a>
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=k1mb3rlyie&icon=0&color=5)](https://visitcount.itsvg.in)
 
-###
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
