@@ -29,7 +29,7 @@ I specialize in game development, algorithm design, and software architecture, w
 <a href="https://open.spotify.com/user/316w26pkt5oxqkdv3infgimtqofe">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=316w26pkt5oxqkdv3infgimtqofe&count=5&unique=true" alt="Spotify recently played"  />
 </a>
----
+
 
 [![](https://visitcount.itsvg.in/api?id=k1mb3rlyie&icon=0&color=5)](https://visitcount.itsvg.in)
 
