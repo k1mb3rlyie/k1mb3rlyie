@@ -10,7 +10,7 @@ I specialize in game development, algorithm design, and software architecture, w
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kmbrly.wav) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kimberlydawap) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@kmbrly.wav) [![Outlook](https://img.shields.io/badge/Outlook-%23000000.svg?logo=microsoftoutlook&logoColor=white)](mailto:cljsterskim@outlook.com)
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
 ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -31,7 +31,7 @@ I specialize in game development, algorithm design, and software architecture, w
 ![Shodan](https://img.shields.io/badge/Shodan-%23FF0000.svg?style=for-the-badge&logo=shodan&logoColor=white)
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=k1mb3rlyie&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=k1mb3rlyie&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 [![Kimberly's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=k1mb3rlyie&theme=cottoncandy)](https://github.com/k1mb3rlyie/github-readme-activity-graph)
