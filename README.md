@@ -36,7 +36,6 @@ I specialize in game development, algorithm design, and software architecture, w
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=k1mb3rlyie&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=k1mb3rlyie&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 [![Kimberly's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=k1mb3rlyie&theme=cottoncandy)](https://github.com/k1mb3rlyie/github-readme-activity-graph)
 
 
@@ -53,6 +52,15 @@ I specialize in game development, algorithm design, and software architecture, w
 <a href="https://open.spotify.com/user/316w26pkt5oxqkdv3infgimtqofe">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=316w26pkt5oxqkdv3infgimtqofe&count=5&unique=true" alt="Spotify recently played"  />
 </a>
+
+## Hobbies
+- 🎤 Singing
+- 📚 Reading
+- ✍🏿 Writing
+- 🎧 Listening to podcasts
+- 😒 Complaining
+- 🧵 Sewing
+- 🎨 Drawing
 
 
 [![](https://visitcount.itsvg.in/api?id=k1mb3rlyie&icon=0&color=5)](https://visitcount.itsvg.in)
