@@ -16,6 +16,9 @@ I specialize in game development, algorithm design, and software architecture, w
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=k1mb3rlyie&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=k1mb3rlyie&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![Kimberly's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=k1mb3rlyie&theme=cottoncandy)](https://github.com/k1mb3rlyie/github-readme-activity-graph)
+
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=k1mb3rlyie&theme=radical&no-frame=true&no-bg=true&margin-w=4)
