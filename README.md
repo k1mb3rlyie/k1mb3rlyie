@@ -4,7 +4,7 @@
 
 <img align="left" height="150" src="https://i.pinimg.com/564x/07/b2/c0/07b2c0385936174d0961e1e2f71f66b1.jpg"  />
 
-Im a I specialize in game development, algorithm design, and software architecture, with a strong passion for leveraging technology to enhance educational accessibility. Currently, I'm developing a 2D game using Unity and exploring WebGL and web hosting for seamless game deployment. My interests also extend to machine learning, and I'm eager to collaborate with like-minded individuals interested in training NLPs and have a solid foundation in machine learning.<br><br>Feel free to connect with me if you’re passionate about game development, machine learning, or looking to collaborate on innovative ✨ projects! ✨
+I'm a student with a lot to learn, and I specialize in game development, algorithm design, and software architecture. I have a strong passion for leveraging technology to enhance educational accessibility. Currently, I'm developing a 2D game using Unity and exploring WebGL and web hosting for seamless game deployment. My interests also extend to machine learning, and I'm eager to collaborate with like-minded individuals interested in training NLPs and have a solid foundation in machine learning.<br><br>Feel free to connect with me if you’re passionate about game development, machine learning, or looking to collaborate on innovative ✨ projects! ✨
 
 
 ## 🌐 Socials:
@@ -17,8 +17,7 @@ Im a I specialize in game development, algorithm design, and software architectu
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) 
