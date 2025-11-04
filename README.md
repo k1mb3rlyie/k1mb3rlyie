@@ -4,7 +4,7 @@
 
 <img align="left" height="150" src="https://i.pinimg.com/564x/07/b2/c0/07b2c0385936174d0961e1e2f71f66b1.jpg"  />
 
-I'm a student with a lot to learn, and I specialize in game development, algorithm design, and software architecture. I have a strong passion for leveraging technology to enhance educational accessibility. Currently, I'm developing a 2D game using Unity and exploring WebGL and web hosting for seamless game deployment. My interests also extend to machine learning, and I'm eager to collaborate with like-minded individuals interested in training NLPs and have a solid foundation in machine learning.<br><br>Feel free to connect with me if you’re passionate about game development, machine learning, or looking to collaborate on innovative ✨ projects! ✨
+I'm a student with a lot to learn, and I specialize in game development and ethical hacking. I have a strong passion for leveraging technology to enhance educational accessibility. Currently, I'm developing a 2D game using Unity and exploring WebGL and web hosting for seamless game deployment as well as many cybersecurity enhancing tools and automations. My interests also extend to machine learning, and I'm eager to collaborate with like-minded individuals interested in training NLPs and have a solid foundation in machine learning.<br><br>Feel free to connect with me if you’re passionate about game development, machine learning, or looking to collaborate on innovative cybersecurity ✨ projects! ✨
 
 
 ## 🌐 Socials:
