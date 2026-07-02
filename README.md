@@ -3,7 +3,7 @@
 
 <img align="left" height="150" src="https://i.pinimg.com/564x/07/b2/c0/07b2c0385936174d0961e1e2f71f66b1.jpg" />
 
-I'm a recently graduated computer science student, researcher and cybersecurity enthusiast with certifications in <b>SOC analysis, network security research, and penetration testing</b>. I'm passionate about building security tools, finding vulnerabilities <i>ethically</i>. I love computtaional linguistics! find my kaggle dataset on a Nigerian Left-Behind language West-Chadic language; Mupun at [![Mupun Lang. Resources](https://www.kaggle.com/datasets/kimberlydawap/mupun-language-resources)]. 
+I'm a recently graduated computer science student, researcher and cybersecurity enthusiast with certifications in <b>SOC analysis, network security research, and penetration testing</b>. I'm passionate about building security tools, finding vulnerabilities <i>ethically</i>. I love computtaional linguistics! find my kaggle dataset on a Nigerian Left-Behind language West-Chadic language; Mupun at [[Mupun Lang. Resources](https://www.kaggle.com/datasets/kimberlydawap/mupun-language-resources)]. 
 I tinker with game development a bit from time to time, but my main focus is on natural language processing, creating security tools, exploit research, and cybersecurity solutions. 
 I'm also interested in machine learning and its applications in threat detection, and I enjoy collaborating with people who share that curiosity.
 
