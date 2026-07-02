@@ -50,7 +50,7 @@ Feel free to connect if you're working in penetration testing, threat detection,
 English, Hausa, German, Japanese...
 there are more but seems pointless to mention them all
 
-**Game dev & creative **
+**Game dev & creative**
 
 ![Unity](https://img.shields.io/badge/Unity-%23000000?style=for-the-badge&logo=unity&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=white)
 
