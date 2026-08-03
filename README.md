@@ -15,7 +15,7 @@ Feel free to connect if you're working in penetration testing, threat detection,
 ---
 
 ## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kmbrly.wav) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/kimberlydawap](https://www.linkedin.com/in/kimberly-dawap-bb169b326/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BnnnVmWRMQh2OZkPrX9cNYw%3D%3D)) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@kmbrly.wav) [![Outlook](https://img.shields.io/badge/Outlook-%23000000.svg?logo=microsoftoutlook&logoColor=white)](mailto:cljsterskim@outlook.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kmbrly.wav) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/kimberlydawap](https://www.linkedin.com/in/kimberly-dawap-bb169b326/)) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@kmbrly.wav) [![Outlook](https://img.shields.io/badge/Outlook-%23000000.svg?logo=microsoftoutlook&logoColor=white)](mailto:cljsterskim@outlook.com)
 
 ---
 
