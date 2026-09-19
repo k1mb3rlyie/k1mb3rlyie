@@ -64,19 +64,6 @@ Machine learning for **imbalanced**, **streaming**, and **distributed** data —
 </tr>
 </table>
 
-### 🏅 Kaggle
-
-<div align="center">
-
-<a href="https://www.kaggle.com/kimberlydawap">
-<img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/kimberlydawap/dataset" />
-<img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/kimberlydawap/notebook" />
-<img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/kimberlydawap/competition" />
-<img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/kimberlydawap/discussion" />
-</a>
-
-</div>
-
 ---
 
 <!-- ═══════════════════ CERTS ═══════════════════ -->
